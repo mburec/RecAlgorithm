@@ -1,0 +1,45 @@
+2015-5-26-:20:18,/register.do,/product/100-brazilian-virgin-hair-weft-3pcs-and-lace/127670410.html,?mbh=,(null)
+2015-5-26-:21:23,/product/100-brazilian-virgin-hair-weft-3pcs-and-lace/127670410.html,/product/recommenditem-wap/175021760.html,(null),#dhm150513-4-rec
+2015-5-26-:22:54,/product/recommenditem-wap/175021760.html,/product/recommenditem-wap/175343767.html,(null),#dhm150513-5-rec
+2015-5-26-:24:09,/product/recommenditem-wap/175343767.html,/product/recommenditem-wap/207811117.html,(null),#dhm150513-8-rec
+2015-5-26-:26:43,/product/recommenditem-wap/207811117.html,/product/13x4-unprocessed-brazilian-straight-lace/215680172.html,(null),(null)
+2015-5-26-:28:19,/product/13x4-unprocessed-brazilian-straight-lace/215680172.html,/product/6a-peruvians-body-wave-lace-closure-4x4-top/216280908.html,(null),(null)
+2015-5-26-:28:59,/product/6a-peruvians-body-wave-lace-closure-4x4-top/216280908.html,/product/queen-brazilian-virgin-hair-weave-1pc-bleached/211094582.html,(null),(null)
+2015-5-26-:29:14,/product/6a-peruvians-body-wave-lace-closure-4x4-top/216280908.html,/product/unprocessed-6a-body-wave-closure-4-4-peruvian/215293191.html,(null),(null)
+2015-5-26-:29:41,/product/unprocessed-6a-body-wave-closure-4-4-peruvian/215293191.html,/product/top-closure-of-human-hair-brazilian-virgin/211244491.html,(null),(null)
+2015-5-26-:30:14,/product/top-closure-of-human-hair-brazilian-virgin/211244491.html,/product/7a-silk-closure-filipino-european-malaysian/233839944.html,(null),(null)
+2015-5-26-:31:04,/product/top-closure-of-human-hair-brazilian-virgin/211244491.html,/product/queen-hair-products-brazilian-virgin-hair/213266681.html,(null),(null)
+2015-5-26-:31:16,/product/top-closure-of-human-hair-brazilian-virgin/211244491.html,/product/queen-hair-brazilian-body-wave-5a-unprocessed/192492952.html,(null),(null)
+2015-5-26-:31:48,/product/queen-hair-brazilian-body-wave-5a-unprocessed/192492952.html,/product/good-sales-1pc-16inch-lace-top-hair-closure/160361337.html,(null),(null)
+2015-5-26-:32:20,/product/good-sales-1pc-16inch-lace-top-hair-closure/160361337.html,/search.do,?key=peruvian hair weave,(null)
+2015-5-26-:32:22,/product/good-sales-1pc-16inch-lace-top-hair-closure/160361337.html,/search.do,?key=peruvian+hair+weave,(null)
+2015-5-26-:32:53,/search.do,/search.do,?key=peruvian hair weave,(null)
+2015-5-26-:32:55,/search.do,/search.do,?key=peruvian+hair+weave,(null)
+2015-5-26-:33:38,/search.do,/search.do,?key=peruvian hair weave with closure,(null)
+2015-5-26-:33:40,/search.do,/search.do,?key=peruvian+hair+weave+with+closure,(null)
+2015-5-26-:34:01,/search.do,/product/7a-brazilian-malaysian-peruvian-cambodian/174245807.html,(null),#s1-8-1
+2015-5-26-:34:59,/product/7a-brazilian-malaysian-peruvian-cambodian/174245807.html,/buynow.do,?quantity=1&itemcode=174245807&proid=ff80808141e9d6500141fd44555a4ed3&skuid=1752365972&skumd5=651899f74b4527264eceff711cbcce5f,(null)
+2015-5-26-:35:03,/product/7a-brazilian-malaysian-peruvian-cambodian/174245807.html,/toplaceorderpage.do,?mbh=&returnURL=http://m.dhgate.com/product/7a-brazilian-malaysian-peruvian-cambodian/174245807.html,#s1-8-1
+2015-5-26-:35:12,/toplaceorderpage.do,/product/7a-brazilian-malaysian-peruvian-cambodian/174245807.html,(null),(null)
+2015-5-26-:35:45,216140705,/product/recommenditem-wap/216140705.html,(null),#dhm150513-4-rec
+2015-5-26-:36:25,/product/recommenditem-wap/216140705.html,/buynow.do,?quantity=1&itemcode=216140705&proid=ff8080814a8997e5014a9531f9f84362&skuid=1807797704&skumd5=ee86910eeab447d09ed67b2786a270a6,(null)
+2015-5-26-:36:28,/product/recommenditem-wap/216140705.html,/toplaceorderpage.do,?mbh=&returnURL=http://m.dhgate.com/product/recommenditem-wap/216140705.html,#dhm150513-4-rec
+2015-5-26-:36:33,/toplaceorderpage.do,/product/recommenditem-wap/216140705.html,(null),(null)
+2015-5-26-:37:41,(null),/search.do,?key=full closure,(null)
+2015-5-26-:37:44,(null),/search.do,?key=full+closure,(null)
+2015-5-26-:38:47,/search.do,/search.do,?key=ear to ear full lace closures,(null)
+2015-5-26-:38:49,/search.do,/search.do,?key=ear+to+ear+full+lace+closures,(null)
+2015-5-26-:40:10,/search.do,/product/6a-cheap-lace-frontal-piece-13-2and13x4-peruvian/217953067.html,(null),#s1-3-1
+2015-5-26-:40:47,/search.do,/product/7a-brazilian-virgin-hair-ear-to-ear-full/213379249.html,(null),#s1-1-1
+2015-5-26-:42:02,/product/7a-brazilian-virgin-hair-ear-to-ear-full/213379249.html,/buynow.do,?quantity=1&itemcode=213379249&proid=ff80808149a2e9e70149b997317a63a9&skuid=1784941600&skumd5=2f3209b1a9f0a37e530befde47bfcc5c,(null)
+2015-5-26-:42:04,/product/7a-brazilian-virgin-hair-ear-to-ear-full/213379249.html,/toplaceorderpage.do,?mbh=&returnURL=http://m.dhgate.com/product/7a-brazilian-virgin-hair-ear-to-ear-full/213379249.html,#s1-1-1
+2015-5-26-:42:51,/toplaceorderpage.do,/product/7a-brazilian-virgin-hair-ear-to-ear-full/213379249.html,(null),(null)
+2015-5-26-:48:09,/product/7a-brazilian-virgin-hair-ear-to-ear-full/213379249.html,/product/recommenditem-wap/143140403.html,(null),#dhm150513-1-rec
+2015-5-26-:49:21,/product/7a-brazilian-virgin-hair-ear-to-ear-full/213379249.html,/product/recommenditem-wap/176259350.html,(null),#dhm150513-8-rec
+2015-5-26-:50:12,/product/recommenditem-wap/176259350.html,/buynow.do,?quantity=1&itemcode=176259350&proid=ff8080814274cff801427f0ecd8a1d1f&skuid=1571380365&skumd5=5f3d2f9b323bc4b464940fbe24f700f4,(null)
+2015-5-26-:50:15,/product/recommenditem-wap/176259350.html,/toplaceorderpage.do,?mbh=&returnURL=http://m.dhgate.com/product/recommenditem-wap/176259350.html,#dhm150513-8-rec
+2015-5-26-:50:34,176259350,/buynow.do,?quantity=1&itemcode=176259350&proid=ff8080814274cff801427f0ecd8a1d1f&skuid=1571380344&skumd5=bc598226d09a2eee81e678015abbbbbb,(null)
+2015-5-26-:50:37,(null),/toplaceorderpage.do,?mbh=&returnURL=http://m.dhgate.com/product/recommenditem-wap/176259350.html,#dhm150513-8-rec
+2015-5-26-:50:44,/search.do,/search.do,?key=ear+to+ear+full+lace+closures,(null)
+2015-5-26-:51:17,/search.do,/product/ear-to-ear-frontal-5a-indian-lace-frontal/238584353.html,(null),#s1-23-1
+2015-5-26-:52:08,/product/ear-to-ear-frontal-5a-indian-lace-frontal/238584353.html,/addCart.do,(null),(null)

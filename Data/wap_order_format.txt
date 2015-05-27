@@ -1,0 +1,1 @@
+ rfxno, buyerid,itemcode,cate1_disp_id,cate1_disp_id,cate1_disp_id, productname,confirmdate, totalpriceofproduct, gmv
