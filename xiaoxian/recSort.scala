@@ -1,27 +1,25 @@
 package recSort
-import scala.collection.breakOut
 import scala.collection.mutable.Map
 object recSort {
   
+  //weight distribution for top len items with normalization
   def weightDistribute(len: Int):List[Double] ={
     val seq =(1 to len).toList
-    seq.map(t => 1.0/t)
+    val weight = seq.map(t => 1.0/t)
+    val sum = weight.reduceLeft(_ + _)
+    weight.map(t=>t/sum)
   }
-  def recWeight(rec: List[String],weight: Double): Map[String, Double] ={
+  //weight distribution for candidate recommendation items
+  def recWeight(rec: List[String],weight: Double): scala.collection.immutable.Map[String, Double] ={
     var i = 0;
     val wei = weightDistribute(rec.length)
-    var recWei = Map(rec(0) -> (weight*wei(0)))
-    i = i + 1
-    while( i < rec.length){
-      recWei = recWei + (rec(i) -> (wei(i)*weight))
-      i += 1
-    }
-    return recWei
+    val rewei = wei.map(t=>weight*t)
+    (rec zip rewei).toMap
   }
   def recomSort(recFun :String => List[String],items:List[String],
                 weights:List[Double]) :List[String] = {
     val itemweight =  items zip weights
-    var recPriority = Map("abcddd"->0.0)
+    var recPriority:Map[String,Double] =  Map()
     for(iw <- itemweight){
       val rec = recFun(iw._1)
       var recpri = recWeight(rec,iw._2)
@@ -34,7 +32,6 @@ object recSort {
         }
       }
     }
-    recPriority.remove("abcddd")
     val list = recPriority.toList
     val sortList = list.sortBy(_._2).reverse
     return sortList.map(t=>t._1)
@@ -42,7 +39,7 @@ object recSort {
   def recomSort2(recFun :String => List[String],items:List[String],
                 weightFun:Int=>List[Double]) :List[String] = {
     val itemweight =  items zip weightFun(items.length)
-    var recPriority = Map("abcddd"->0.0)
+    var recPriority:Map[String,Double] = Map()
     for(iw <- itemweight){
       val rec = recFun(iw._1)
       var recpri = recWeight(rec,iw._2)
@@ -55,7 +52,6 @@ object recSort {
         }
       }
     }
-    recPriority.remove("abcddd")
     val list = recPriority.toList
     val sortList = list.sortBy(_._2).reverse
     return sortList.map(t=>t._1)
